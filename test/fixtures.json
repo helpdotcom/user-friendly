@@ -1,0 +1,63 @@
+{
+  "windows": [
+    {
+      "input": "Mozilla/5.0 (Windows NT 6.3; rv:36.0) Gecko/20100101 Firefox/36.0",
+      "browser": "Firefox 36.0.0",
+      "os": "Windows 8.1"
+    },
+    {
+      "input": "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:25.0) Gecko/20100101 Firefox/25.0",
+      "browser": "Firefox 25.0.0",
+      "os": "Windows 7"
+    },
+    {
+      "input": "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36",
+      "browser": "Chrome 41.0.2228",
+      "os": "Windows 7"
+    },
+    {
+      "input": "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36 Mozilla/5.0 (iPad; U; CPU OS 3_2 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Version/4.0.4 Mobile/7B334b Safari/531.21.10",
+      "browser": "Chrome 34.0.1847",
+      "os": "Windows XP"
+    }
+  ],
+  "osx": [
+    {
+      "input": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10; rv:33.0) Gecko/20100101 Firefox/33.0",
+      "browser": "Firefox 33.0.0",
+      "os": "Mac OS X 10.10.0"
+    },
+    {
+      "input": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2227.1 Safari/537.36",
+      "browser": "Chrome 41.0.2227",
+      "os": "Mac OS X 10.10.1"
+    },
+    {
+      "input": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.75.14 (KHTML, like Gecko) Version/7.0.3 Safari/7046A194A",
+      "browser": "Safari 7.0.3",
+      "os": "Mac OS X 10.9.3"
+    },
+    {
+      "input": "Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5355d Safari/8536.25",
+      "browser": "Mobile Safari 6.0.0",
+      "os": "iOS 6.0.0"
+    }
+  ],
+  "linux": [
+    {
+      "input": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:24.0) Gecko/20100101 Firefox/24.0",
+      "browser": "Firefox 24.0.0",
+      "os": "Ubuntu"
+    },
+    {
+      "input": "Mozilla/5.0 (X11; OpenBSD i386) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36",
+      "browser": "Chrome 36.0.1985",
+      "os": "OpenBSD"
+    },
+    {
+      "input": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/4E423F",
+      "browser": "Chrome 34.0.1847",
+      "os": "Linux"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "user-friendly",
+  "version": "1.0.0",
+  "description": "User friendly user agent querying",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test/test.js"
+  },
+  "dependencies": {
+    "useragent": "~2.1.7"
+  },
+  "devDependencies": {
+    "tap": "~1.3.1"
+  },
+  "license": "MIT",
+  "author": "Evan Lucas <evanlucas@me.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/evanlucas/user-friendly"
+  },
+  "homepage": "https://github.com/evanlucas/user-friendly",
+  "bugs": {
+    "url": "https://github.com/evanlucas/user-friendly/issues"
+  }
+}
