@@ -1,6 +1,6 @@
 # user-friendly
 
-[![Build Status](https://travis-ci.org/evanlucas/user-friendly.svg)](https://travis-ci.org/evanlucas/user-friendly)
+[![Build Status](https://travis-ci.org/helpdotcom/user-friendly.svg)](https://travis-ci.org/helpdotcom/user-friendly)
 
 User friendly user agent querying
 

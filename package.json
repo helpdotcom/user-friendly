@@ -16,10 +16,10 @@
   "author": "Evan Lucas <evanlucas@me.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/evanlucas/user-friendly"
+    "url": "https://github.com/helpdotcom/user-friendly"
   },
-  "homepage": "https://github.com/evanlucas/user-friendly",
+  "homepage": "https://github.com/helpdotcom/user-friendly",
   "bugs": {
-    "url": "https://github.com/evanlucas/user-friendly/issues"
+    "url": "https://github.com/helpdotcom/user-friendly/issues"
   }
 }
