@@ -1,6 +1,6 @@
 {
   "name": "user-friendly",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "User friendly user agent querying",
   "main": "index.js",
   "scripts": {
