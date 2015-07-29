@@ -1,6 +1,7 @@
 # user-friendly
 
 [![Build Status](https://travis-ci.org/helpdotcom/user-friendly.svg)](https://travis-ci.org/helpdotcom/user-friendly)
+[![Coverage Status](https://coveralls.io/repos/helpdotcom/user-friendly/badge.svg?branch=master&service=github)](https://coveralls.io/github/helpdotcom/user-friendly?branch=master)
 
 User friendly user agent querying
 
